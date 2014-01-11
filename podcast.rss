@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>Daily Tech News Show</title>
+<link>http://www.dailytechnewsshow.com</link>
+<itunes:author>Tom Merritt</itunes:author>
+<itunes:owner>
+	<itunes:name>Tom Merritt</itunes:name>
+	<itunes:email>feedback at dailytechnewsshow.com</itunes:email>
+</itunes:owner>
+<itunes:summary>Daily Tech News Show features host Tom Merrit and various guests discussing featured news stories from the world of tech.</itunes:summary>
+<description>Daily Tech News Show features host Tom Merrit and various guests discussing featured news stories from the world of tech.</description>
+<image>
+	<url>http://eternalsword.github.io/dtns/artwork.png</url>
+	<height>1400</height>
+	<width>1400</width>
+</image>
+<itunes:category text="Technology"><itunes:category text="Tech News" /></itunes:category>
+<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>DTNS 2146 – Curved is better than flat</title>
+			<pubDate>Fri, 10 Jan 2014 22:29:27 +0000</pubDate>
+			<itunes:summary>Tom chats with Nicole Lee from Engadget about the Best of CES and the new Google + email ‘feature.’ Plus Len Peralta joins to draw the stories! MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks […]</itunes:summary>
+			<enclosure url="https://archive.org/download/DailyTechNewsShowJan.102C2014/Daily%20Tech%20News%20Show%20-%20Jan.%2010%252C%202014.mp4" length="321285856" type="video/mpeg" />
+			<guid>https://archive.org/download/DailyTechNewsShowJan.102C2014/Daily%20Tech%20News%20Show%20-%20Jan.%2010%252C%202014.mp4</guid>
+		</item>
+				<item>
+			<title>DTNS 2145 – Watch this!</title>
+			<pubDate>Thu, 09 Jan 2014 22:35:53 +0000</pubDate>
+			<itunes:summary>Myke Hurley from 5 by 5 joins us to review some of the cooler items from off the beaten path at CES. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks to Mustafa A. from thepolarcat.com for […]</itunes:summary>
+			<enclosure url="https://archive.org/download/DTNSjan9vid/DTNSjan9vid.mp4" length="324631276" type="video/mpeg" />
+			<guid>https://archive.org/download/DTNSjan9vid/DTNSjan9vid.mp4</guid>
+		</item>
+				<item>
+			<title>DTNS 2144 – Putting the smart in TV</title>
+			<pubDate>Wed, 08 Jan 2014 22:28:43 +0000</pubDate>
+			<itunes:summary>Tom reviews some more announcements from CES, especially Sony’s Internet TV service, with Justin Robert Young. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks to Mustafa A. from thepolarcat.com for the logo! Today’s album art courtesy […]</itunes:summary>
+			<enclosure url="https://archive.org/download/DailyTechNewsShowJan.82C2014/Daily%20Tech%20News%20Show%20-%20Jan.%208%252C%202014.mp4" length="82718458" type="video/mpeg" />
+			<guid>https://archive.org/download/DailyTechNewsShowJan.82C2014/Daily%20Tech%20News%20Show%20-%20Jan.%208%252C%202014.mp4</guid>
+		</item>
+				<item>
+			<title>DTNS 2143 – AT&amp;T Slow Cooks Neutrality</title>
+			<pubDate>Tue, 07 Jan 2014 22:26:21 +0000</pubDate>
+			<itunes:summary>Tom chats with Jon Brodkin from Ars Technica. They’ll talk a little about CES and a lot about whether AT&amp;T’s new ‘subsidized data’ plans break net neutrality. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks to […]</itunes:summary>
+			<enclosure url="https://archive.org/download/DailyTechNewsShowJan.72C2014/Daily%20Tech%20News%20Show%20-%20Jan.%207%252C%202014.mp4" length="88069408" type="video/mpeg" />
+			<guid>https://archive.org/download/DailyTechNewsShowJan.72C2014/Daily%20Tech%20News%20Show%20-%20Jan.%207%252C%202014.mp4</guid>
+		</item>
+				<item>
+			<title>DTNS 2142 – The fungi at CES 2014</title>
+			<pubDate>Mon, 06 Jan 2014 22:20:46 +0000</pubDate>
+			<itunes:summary>Tom chats with Lamarr Wilson about what’s happening at CES 2014 in las vegas. Multiple versions (ogg, video etc.) from Archive.org. MP3 Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the new opening theme! Big thanks to Mustafa A. from thepolarcat.com for the logo! Kylde has joined TomGehrke and […]</itunes:summary>
+			<enclosure url="https://archive.org/download/DailyTechNewsShowJanuary62C2014/Daily%20Tech%20News%20Show%20-%20January%206%252C%202014.mp4" length="83754550" type="video/mpeg" />
+			<guid>https://archive.org/download/DailyTechNewsShowJanuary62C2014/Daily%20Tech%20News%20Show%20-%20January%206%252C%202014.mp4</guid>
+		</item>
+				<item>
+			<title>DTNS 2141: Quanto smash!</title>
+			<pubDate>Fri, 03 Jan 2014 22:28:26 +0000</pubDate>
+			<itunes:summary>Darren Kitchen of Hak5 joins me to talk about Quantum Computers and free Harvard coding classes, while Len Peralta illustrates the show and introduces us to Quanto! Multiple versions (ogg, video etc.) from Archive.org. MP3 Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music! Big thanks to Sam Smith for the logo! Show Notes […]</itunes:summary>
+			<enclosure url="https://archive.org/download/DailyTechNewsShow2141/Daily%20Tech%20News%20Show%20-%202141.mp4" length="90662659" type="video/mpeg" />
+			<guid>https://archive.org/download/DailyTechNewsShow2141/Daily%20Tech%20News%20Show%20-%202141.mp4</guid>
+		</item>
+				<item>
+			<title>DTNS 2140: My car has lasers</title>
+			<pubDate>Thu, 02 Jan 2014 20:28:10 +0000</pubDate>
+			<itunes:summary>Tim Stevens joins me to talk about the tech news of the day, Ford’s solar car, and auto expectations at CES. Multiple versions (ogg, video etc.) from Archive.org. MP3 Big thanks to Dan Lueders for the music! Please SUBSCRIBE HERE. Show Notes: Laser Solar Car of the Future? BBC News reports that at CES, Ford will show […]</itunes:summary>
+			<enclosure url="https://archive.org/download/DailyTechNewsShowJan.22C2014/Daily%20Tech%20News%20Show%20-%20Jan.%202%252C%202014.mp4" length="78858313" type="video/mpeg" />
+			<guid>https://archive.org/download/DailyTechNewsShowJan.22C2014/Daily%20Tech%20News%20Show%20-%20Jan.%202%252C%202014.mp4</guid>
+		</item>
+		</channel>
+</rss>

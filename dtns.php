@@ -14,7 +14,7 @@
 <itunes:summary>Daily Tech News Show features host Tom Merrit and various guests discussing featured news stories from the world of tech.</itunes:summary>
 <description>Daily Tech News Show features host Tom Merrit and various guests discussing featured news stories from the world of tech.</description>
 <image>
-	<url>http://eternalsword.github.io/dtns/artwork.png</url>
+	<url>http://dtns.eternalsword.com/artwork.png</url>
 	<height>1400</height>
 	<width>1400</width>
 </image>

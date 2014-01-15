@@ -18,10 +18,18 @@
 <itunes:category text="Technology"><itunes:category text="Tech News" /></itunes:category>
 <itunes:explicit>no</itunes:explicit>
 		<item>
+			<title>DTNS 2149 – Encrypt all the things</title>
+			<pubDate>Wed, 15 Jan 2014 22:27:06 +0000</pubDate>
+			<itunes:summary>Scott Johnson and Darren Kitchen join me to chat about the latest NSA revealtions, the ultra-secure new Blackphone, and whether encryption and security have gone mainstream. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks to Mustafa […]</itunes:summary>
+			<description>Scott Johnson and Darren Kitchen join me to chat about the latest NSA revealtions, the ultra-secure new Blackphone, and whether encryption and security have gone mainstream. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks to Mustafa […]</description>
+			<enclosure url="https://archive.org/download/DailyTechNewsShowJan.152C2014/Daily%20Tech%20news%20Show%20-%20Jan.%2015%252C%202014.mp4" length="96618958" type="video/mpeg" />
+			<guid>https://archive.org/download/DailyTechNewsShowJan.152C2014/Daily%20Tech%20news%20Show%20-%20Jan.%2015%252C%202014.mp4</guid>
+		</item>
+				<item>
 			<title>DTNS 2148 – Is Net Neutrality Dead?</title>
 			<pubDate>Tue, 14 Jan 2014 22:16:54 +0000</pubDate>
-			<itunes:summary>Allison Sheridan and Jon Brodkin join the show to talk about the doom of Net Neutrality, uncarriers, and more. ﻿ MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks to Mustafa A. from thepolarcat.com for the […]</itunes:summary>
-			<description>Allison Sheridan and Jon Brodkin join the show to talk about the doom of Net Neutrality, uncarriers, and more. ﻿ MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks to Mustafa A. from thepolarcat.com for the […]</description>
+			<itunes:summary>Allison Sheridan and Jon Brodkin join the show to talk about the doom of Net Neutrality, uncarriers, and more. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks to Mustafa A. from thepolarcat.com for the logo! […]</itunes:summary>
+			<description>Allison Sheridan and Jon Brodkin join the show to talk about the doom of Net Neutrality, uncarriers, and more. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks to Mustafa A. from thepolarcat.com for the logo! […]</description>
 			<enclosure url="https://archive.org/download/DailyTechNewsShowJan.142C2014/Daily%20Tech%20News%20Show%20-%20Jan.%2014%252C%202014.mp4" length="102361303" type="video/mpeg" />
 			<guid>https://archive.org/download/DailyTechNewsShowJan.142C2014/Daily%20Tech%20News%20Show%20-%20Jan.%2014%252C%202014.mp4</guid>
 		</item>
@@ -72,14 +80,6 @@
 			<description>Tom chats with Lamarr Wilson about what’s happening at CES 2014 in las vegas. Multiple versions (ogg, video etc.) from Archive.org. MP3 Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the new opening theme! Big thanks to Mustafa A. from thepolarcat.com for the logo! Kylde has joined TomGehrke and […]</description>
 			<enclosure url="https://archive.org/download/DailyTechNewsShowJanuary62C2014/Daily%20Tech%20News%20Show%20-%20January%206%252C%202014.mp4" length="83754550" type="video/mpeg" />
 			<guid>https://archive.org/download/DailyTechNewsShowJanuary62C2014/Daily%20Tech%20News%20Show%20-%20January%206%252C%202014.mp4</guid>
-		</item>
-				<item>
-			<title>DTNS 2141: Quanto smash!</title>
-			<pubDate>Fri, 03 Jan 2014 22:28:26 +0000</pubDate>
-			<itunes:summary>Darren Kitchen of Hak5 joins me to talk about Quantum Computers and free Harvard coding classes, while Len Peralta illustrates the show and introduces us to Quanto! Multiple versions (ogg, video etc.) from Archive.org. MP3 Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music! Big thanks to Sam Smith for the logo! Show Notes […]</itunes:summary>
-			<description>Darren Kitchen of Hak5 joins me to talk about Quantum Computers and free Harvard coding classes, while Len Peralta illustrates the show and introduces us to Quanto! Multiple versions (ogg, video etc.) from Archive.org. MP3 Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music! Big thanks to Sam Smith for the logo! Show Notes […]</description>
-			<enclosure url="https://archive.org/download/DailyTechNewsShow2141/Daily%20Tech%20News%20Show%20-%202141.mp4" length="90662659" type="video/mpeg" />
-			<guid>https://archive.org/download/DailyTechNewsShow2141/Daily%20Tech%20News%20Show%20-%202141.mp4</guid>
 		</item>
 		</channel>
 </rss>

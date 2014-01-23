@@ -18,10 +18,18 @@
 <itunes:category text="Technology"><itunes:category text="Tech News" /></itunes:category>
 <itunes:explicit>no</itunes:explicit>
 		<item>
+			<title>DTNS 2155 – Follow the path of the Beam</title>
+			<pubDate>Thu, 23 Jan 2014 22:37:52 +0000</pubDate>
+			<itunes:summary>Jason Hiner joins the show to talk about Lenovo buying the last of IBM’s PC business and where 3D printing meets the Internet of things. Also don’t text while walking. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening […]</itunes:summary>
+			<description>Jason Hiner joins the show to talk about Lenovo buying the last of IBM’s PC business and where 3D printing meets the Internet of things. Also don’t text while walking. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening […]</description>
+			<enclosure url="https://archive.org/download/DailyTechNewsShowJan.232C2014/Daily%20Tech%20News%20Show%20-%20Jan.%2023%252C%202014.mp4" length="75528157" type="video/mpeg" />
+			<guid>https://archive.org/download/DailyTechNewsShowJan.232C2014/Daily%20Tech%20News%20Show%20-%20Jan.%2023%252C%202014.mp4</guid>
+		</item>
+				<item>
 			<title>DTNS 2154 – The YASMS Chasm</title>
 			<pubDate>Wed, 22 Jan 2014 22:42:13 +0000</pubDate>
-			<itunes:summary>Molly Wood and Peter Wells join to talk abotut he great Chinese website blackout, T-Mobile USA becoming a bank, and more.﻿ MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks to Mustafa A. from thepolarcat.com for […]</itunes:summary>
-			<description>Molly Wood and Peter Wells join to talk abotut he great Chinese website blackout, T-Mobile USA becoming a bank, and more.﻿ MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks to Mustafa A. from thepolarcat.com for […]</description>
+			<itunes:summary>Molly Wood and Peter Wells join to talk abotut he great Chinese website blackout, T-Mobile USA becoming a bank, and more. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks to Mustafa A. from thepolarcat.com for […]</itunes:summary>
+			<description>Molly Wood and Peter Wells join to talk abotut he great Chinese website blackout, T-Mobile USA becoming a bank, and more. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks to Mustafa A. from thepolarcat.com for […]</description>
 			<enclosure url="https://archive.org/download/DailyTechNewsShowJan.222C2014/Daily%20Tech%20news%20Show%20-%20Jan.%2022%252C%202014.mp4" length="349060896" type="video/mpeg" />
 			<guid>https://archive.org/download/DailyTechNewsShowJan.222C2014/Daily%20Tech%20news%20Show%20-%20Jan.%2022%252C%202014.mp4</guid>
 		</item>
@@ -64,14 +72,6 @@
 			<description>Tom chats with Nicole Lee from Engadget about the Best of CES and the new Google + email ‘feature.’ Plus Len Peralta joins to draw the stories! MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks […]</description>
 			<enclosure url="https://archive.org/download/DailyTechNewsShowJan.102C2014/Daily%20Tech%20News%20Show%20-%20Jan.%2010%252C%202014.mp4" length="321285856" type="video/mpeg" />
 			<guid>https://archive.org/download/DailyTechNewsShowJan.102C2014/Daily%20Tech%20News%20Show%20-%20Jan.%2010%252C%202014.mp4</guid>
-		</item>
-				<item>
-			<title>DTNS 2145 – Watch this!</title>
-			<pubDate>Thu, 09 Jan 2014 22:35:53 +0000</pubDate>
-			<itunes:summary>Myke Hurley from 5 by 5 joins us to review some of the cooler items from off the beaten path at CES. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks to Mustafa A. from thepolarcat.com for […]</itunes:summary>
-			<description>Myke Hurley from 5 by 5 joins us to review some of the cooler items from off the beaten path at CES. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks to Mustafa A. from thepolarcat.com for […]</description>
-			<enclosure url="https://archive.org/download/DTNSjan9vid/DTNSjan9vid.mp4" length="324631276" type="video/mpeg" />
-			<guid>https://archive.org/download/DTNSjan9vid/DTNSjan9vid.mp4</guid>
 		</item>
 		</channel>
 </rss>

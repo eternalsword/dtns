@@ -18,10 +18,18 @@
 <itunes:category text="Technology"><itunes:category text="Tech News" /></itunes:category>
 <itunes:explicit>no</itunes:explicit>
 		<item>
+			<title>DTNS 2157 – What Google’s DeepMind plans</title>
+			<pubDate>Mon, 27 Jan 2014 22:17:32 +0000</pubDate>
+			<itunes:summary>Raj Deut joins us to chat about Google’s AI ambitions, and check in on the PS4 Xbox One console wars a few months later. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy the show, […]</itunes:summary>
+			<description>Raj Deut joins us to chat about Google’s AI ambitions, and check in on the PS4 Xbox One console wars a few months later. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy the show, […]</description>
+			<enclosure url="https://archive.org/download/DTNS20140127/DTNS20140127.mp4" length="85768133" type="video/mpeg" />
+			<guid>https://archive.org/download/DTNS20140127/DTNS20140127.mp4</guid>
+		</item>
+				<item>
 			<title>DTNS 2156 – Take that outages!</title>
 			<pubDate>Fri, 24 Jan 2014 22:15:44 +0000</pubDate>
-			<itunes:summary>Michael Wolf Joins to chat about Gmail’s assault on a Fresno man, the 30-year-old Mac, and the untold story of Nest. ﻿ MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy the show, please consider […]</itunes:summary>
-			<description>Michael Wolf Joins to chat about Gmail’s assault on a Fresno man, the 30-year-old Mac, and the untold story of Nest. ﻿ MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy the show, please consider […]</description>
+			<itunes:summary>Michael Wolf Joins to chat about Gmail’s assault on a Fresno man, the 30-year-old Mac, and the untold story of Nest. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy the show, please consider supporting […]</itunes:summary>
+			<description>Michael Wolf Joins to chat about Gmail’s assault on a Fresno man, the 30-year-old Mac, and the untold story of Nest. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy the show, please consider supporting […]</description>
 			<enclosure url="https://archive.org/download/DTNS20140124/DTNS20140124.mp4" length="75108222" type="video/mpeg" />
 			<guid>https://archive.org/download/DTNS20140124/DTNS20140124.mp4</guid>
 		</item>
@@ -64,14 +72,6 @@
 			<description>Allison Sheridan and Jon Brodkin join the show to talk about the doom of Net Neutrality, uncarriers, and more. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks to Mustafa A. from thepolarcat.com for the logo! […]</description>
 			<enclosure url="https://archive.org/download/DailyTechNewsShowJan.142C2014/Daily%20Tech%20News%20Show%20-%20Jan.%2014%252C%202014.mp4" length="102361303" type="video/mpeg" />
 			<guid>https://archive.org/download/DailyTechNewsShowJan.142C2014/Daily%20Tech%20News%20Show%20-%20Jan.%2014%252C%202014.mp4</guid>
-		</item>
-				<item>
-			<title>DTNS 2147 – Google Buys a Nest</title>
-			<pubDate>Mon, 13 Jan 2014 22:18:34 +0000</pubDate>
-			<itunes:summary>Iyaz Akhtar joins to chat about products at CES you CAN actually buy, the rise of messaging apps and Google buying Nest Labs. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks to Mustafa A. from […]</itunes:summary>
-			<description>Iyaz Akhtar joins to chat about products at CES you CAN actually buy, the rise of messaging apps and Google buying Nest Labs. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks to Mustafa A. from […]</description>
-			<enclosure url="https://archive.org/download/DailyTechNewsShowJan.132C2014/Daily%20Tech%20News%20Show%20-%20Jan.%2013%252C%202014.mp4" length="75259486" type="video/mpeg" />
-			<guid>https://archive.org/download/DailyTechNewsShowJan.132C2014/Daily%20Tech%20News%20Show%20-%20Jan.%2013%252C%202014.mp4</guid>
 		</item>
 		</channel>
 </rss>

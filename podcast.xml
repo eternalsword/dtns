@@ -18,6 +18,14 @@
 <itunes:category text="Technology"><itunes:category text="Tech News" /></itunes:category>
 <itunes:explicit>no</itunes:explicit>
 		<item>
+			<title>DTNS 2158 – 4K is OK</title>
+			<pubDate>Tue, 28 Jan 2014 22:26:21 +0000</pubDate>
+			<itunes:summary>Nate Lanxon joins us to talk about the Dutch ruling against blocking The Pirate Bay as well as his road test with a 4K monitor and a Mac Pro. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If […]</itunes:summary>
+			<description>Nate Lanxon joins us to talk about the Dutch ruling against blocking The Pirate Bay as well as his road test with a 4K monitor and a Mac Pro. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If […]</description>
+			<enclosure url="https://archive.org/download/DTNS20140128/DTNS20140128.mp4" length="97345935" type="video/mpeg" />
+			<guid>https://archive.org/download/DTNS20140128/DTNS20140128.mp4</guid>
+		</item>
+				<item>
 			<title>DTNS 2157 – What Google’s DeepMind plans</title>
 			<pubDate>Mon, 27 Jan 2014 22:17:32 +0000</pubDate>
 			<itunes:summary>Raj Deut joins us to chat about Google’s AI ambitions, and check in on the PS4 Xbox One console wars a few months later. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy the show, […]</itunes:summary>
@@ -64,14 +72,6 @@
 			<description>Scott Johnson and Darren Kitchen join me to chat about the latest NSA revelations, the ultra-secure new Blackphone, and whether encryption and security have gone mainstream. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks to Mustafa […]</description>
 			<enclosure url="https://archive.org/download/DailyTechNewsShowJan.152C2014/Daily%20Tech%20news%20Show%20-%20Jan.%2015%252C%202014.mp4" length="96618958" type="video/mpeg" />
 			<guid>https://archive.org/download/DailyTechNewsShowJan.152C2014/Daily%20Tech%20news%20Show%20-%20Jan.%2015%252C%202014.mp4</guid>
-		</item>
-				<item>
-			<title>DTNS 2148 – Is Net Neutrality Dead?</title>
-			<pubDate>Tue, 14 Jan 2014 22:16:54 +0000</pubDate>
-			<itunes:summary>Allison Sheridan and Jon Brodkin join the show to talk about the doom of Net Neutrality, uncarriers, and more. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks to Mustafa A. from thepolarcat.com for the logo! […]</itunes:summary>
-			<description>Allison Sheridan and Jon Brodkin join the show to talk about the doom of Net Neutrality, uncarriers, and more. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks to Mustafa A. from thepolarcat.com for the logo! […]</description>
-			<enclosure url="https://archive.org/download/DailyTechNewsShowJan.142C2014/Daily%20Tech%20News%20Show%20-%20Jan.%2014%252C%202014.mp4" length="102361303" type="video/mpeg" />
-			<guid>https://archive.org/download/DailyTechNewsShowJan.142C2014/Daily%20Tech%20News%20Show%20-%20Jan.%2014%252C%202014.mp4</guid>
 		</item>
 		</channel>
 </rss>

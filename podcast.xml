@@ -18,6 +18,14 @@
 <itunes:category text="Technology"><itunes:category text="Tech News" /></itunes:category>
 <itunes:explicit>no</itunes:explicit>
 		<item>
+			<title>DTNS 2166 – Radio Winnebago</title>
+			<pubDate>Fri, 07 Feb 2014 22:30:13 +0000</pubDate>
+			<itunes:summary>Darren Kitchen joins the show to talk about NBC’s Sochi hacking report among other things, and Len Peralta illustrates the stories. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy the show, please consider supporting […]</itunes:summary>
+			<description>Darren Kitchen joins the show to talk about NBC’s Sochi hacking report among other things, and Len Peralta illustrates the stories. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy the show, please consider supporting […]</description>
+			<enclosure url="https://archive.org/download/DTNS20140207_201402/DTNS20140207.mp4" length="355450943" type="video/mpeg" />
+			<guid>https://archive.org/download/DTNS20140207_201402/DTNS20140207.mp4</guid>
+		</item>
+				<item>
 			<title>DTNS 2165 – Full throttle?</title>
 			<pubDate>Thu, 06 Feb 2014 22:25:22 +0000</pubDate>
 			<itunes:summary>Brian Brushwood joins us to chat with Peter Bright about whether Verizon has started degrading Netflix traffic after they won their recent court victory over Net Neutrality. Also Sony ditches their PC business so it’s time to reassess how dead PC’s are. MP3 Note: The video stream (which is in beta mind you) experienced a catastrophic streaming […]</itunes:summary>
@@ -176,14 +184,6 @@
 			<description>Tom chats with Jon Brodkin from Ars Technica. They’ll talk a little about CES and a lot about whether AT&amp;T’s new ‘subsidized data’ plans break net neutrality. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks to […]</description>
 			<enclosure url="https://archive.org/download/DailyTechNewsShowJan.72C2014/Daily%20Tech%20News%20Show%20-%20Jan.%207%252C%202014.mp4" length="88069408" type="video/mpeg" />
 			<guid>https://archive.org/download/DailyTechNewsShowJan.72C2014/Daily%20Tech%20News%20Show%20-%20Jan.%207%252C%202014.mp4</guid>
-		</item>
-				<item>
-			<title>DTNS 2142 – The fungi at CES 2014</title>
-			<pubDate>Mon, 06 Jan 2014 22:20:46 +0000</pubDate>
-			<itunes:summary>Tom chats with Lamarr Wilson about what’s happening at CES 2014 in las vegas. Multiple versions (ogg, video etc.) from Archive.org. MP3 Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the new opening theme! Big thanks to Mustafa A. from thepolarcat.com for the logo! Kylde has joined TomGehrke and […]</itunes:summary>
-			<description>Tom chats with Lamarr Wilson about what’s happening at CES 2014 in las vegas. Multiple versions (ogg, video etc.) from Archive.org. MP3 Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the new opening theme! Big thanks to Mustafa A. from thepolarcat.com for the logo! Kylde has joined TomGehrke and […]</description>
-			<enclosure url="https://archive.org/download/DailyTechNewsShowJanuary62C2014/Daily%20Tech%20News%20Show%20-%20January%206%252C%202014.mp4" length="83754550" type="video/mpeg" />
-			<guid>https://archive.org/download/DailyTechNewsShowJanuary62C2014/Daily%20Tech%20News%20Show%20-%20January%206%252C%202014.mp4</guid>
 		</item>
 		</channel>
 </rss>

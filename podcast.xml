@@ -18,6 +18,22 @@
 <itunes:category text="Technology"><itunes:category text="Tech News" /></itunes:category>
 <itunes:explicit>no</itunes:explicit>
 		<item>
+			<title>DTNS 2169 – Give the Fish the Keys</title>
+			<pubDate>Wed, 12 Feb 2014 22:25:38 +0000</pubDate>
+			<itunes:summary>Jeff Cannata joins us to talk about the FCC’s new commitment to Net Neutrality. Should you believe it? Fear it? Ignore it? Plus a Flappy Bert chaser. Yes, you read that correctly. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this […]</itunes:summary>
+			<description>Jeff Cannata joins us to talk about the FCC’s new commitment to Net Neutrality. Should you believe it? Fear it? Ignore it? Plus a Flappy Bert chaser. Yes, you read that correctly. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this […]</description>
+			<enclosure url="https://archive.org/download/DTNS20140212_201402/DTNS20140212.mp4" length="261997560" type="video/mpeg" />
+			<guid>https://archive.org/download/DTNS20140212_201402/DTNS20140212.mp4</guid>
+		</item>
+				<item>
+			<title>DTNS 2168 – Today We Flap Back</title>
+			<pubDate>Tue, 11 Feb 2014 22:22:47 +0000</pubDate>
+			<itunes:summary>David Prager joins us as we enjoy “Today We Fight Back” “Safer Internet Day” and the idea of an airline gate agent wearing Google Glass being a first class ticket perk. MP3 Warning: David’s video mysteriously disappears 20 seconds into the show. David’s video after that is replaced by YOUR IMAGINATION. Use it wisely. Multiple […]</itunes:summary>
+			<description>David Prager joins us as we enjoy “Today We Fight Back” “Safer Internet Day” and the idea of an airline gate agent wearing Google Glass being a first class ticket perk. MP3 Warning: David’s video mysteriously disappears 20 seconds into the show. David’s video after that is replaced by YOUR IMAGINATION. Use it wisely. Multiple […]</description>
+			<enclosure url="https://archive.org/download/DTNS20140211_201402/DTNS20140211.mp4" length="315740128" type="video/mpeg" />
+			<guid>https://archive.org/download/DTNS20140211_201402/DTNS20140211.mp4</guid>
+		</item>
+				<item>
 			<title>DTNS 2167 – Flappy Drone</title>
 			<pubDate>Mon, 10 Feb 2014 22:22:13 +0000</pubDate>
 			<itunes:summary>Andrea Smith joins us to lament the fate of Flappy Bird, duck drones in Dubai and get prepped for protest. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy the show, please consider supporting the […]</itunes:summary>
@@ -176,22 +192,6 @@
 			<description>Myke Hurley from 5 by 5 joins us to review some of the cooler items from off the beaten path at CES. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks to Mustafa A. from thepolarcat.com for […]</description>
 			<enclosure url="https://archive.org/download/DTNSjan9vid/DTNSjan9vid.mp4" length="324631276" type="video/mpeg" />
 			<guid>https://archive.org/download/DTNSjan9vid/DTNSjan9vid.mp4</guid>
-		</item>
-				<item>
-			<title>DTNS 2144 – Putting the smart in TV</title>
-			<pubDate>Wed, 08 Jan 2014 22:28:43 +0000</pubDate>
-			<itunes:summary>Tom reviews some more announcements from CES, especially Sony’s Internet TV service, with Justin Robert Young. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks to Mustafa A. from thepolarcat.com for the logo! Today’s album art courtesy […]</itunes:summary>
-			<description>Tom reviews some more announcements from CES, especially Sony’s Internet TV service, with Justin Robert Young. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks to Mustafa A. from thepolarcat.com for the logo! Today’s album art courtesy […]</description>
-			<enclosure url="https://archive.org/download/DailyTechNewsShowJan.82C2014/Daily%20Tech%20News%20Show%20-%20Jan.%208%252C%202014.mp4" length="82718458" type="video/mpeg" />
-			<guid>https://archive.org/download/DailyTechNewsShowJan.82C2014/Daily%20Tech%20News%20Show%20-%20Jan.%208%252C%202014.mp4</guid>
-		</item>
-				<item>
-			<title>DTNS 2143 – AT&amp;T Slow Cooks Neutrality</title>
-			<pubDate>Tue, 07 Jan 2014 22:26:21 +0000</pubDate>
-			<itunes:summary>Tom chats with Jon Brodkin from Ars Technica. They’ll talk a little about CES and a lot about whether AT&amp;T’s new ‘subsidized data’ plans break net neutrality. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks to […]</itunes:summary>
-			<description>Tom chats with Jon Brodkin from Ars Technica. They’ll talk a little about CES and a lot about whether AT&amp;T’s new ‘subsidized data’ plans break net neutrality. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks to […]</description>
-			<enclosure url="https://archive.org/download/DailyTechNewsShowJan.72C2014/Daily%20Tech%20News%20Show%20-%20Jan.%207%252C%202014.mp4" length="88069408" type="video/mpeg" />
-			<guid>https://archive.org/download/DailyTechNewsShowJan.72C2014/Daily%20Tech%20News%20Show%20-%20Jan.%207%252C%202014.mp4</guid>
 		</item>
 		</channel>
 </rss>

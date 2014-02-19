@@ -18,6 +18,14 @@
 <itunes:category text="Technology"><itunes:category text="Tech News" /></itunes:category>
 <itunes:explicit>no</itunes:explicit>
 		<item>
+			<title>DTNS 2174 – Google, Now with More Fiber.</title>
+			<pubDate>Wed, 19 Feb 2014 22:16:33 +0000</pubDate>
+			<itunes:summary>Andrew Zarian joins us as we talk about Google Fiber possibly invading 34 new cities, and the FCC cracking down on Net Neutrality violations again. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy the […]</itunes:summary>
+			<description>Andrew Zarian joins us as we talk about Google Fiber possibly invading 34 new cities, and the FCC cracking down on Net Neutrality violations again. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy the […]</description>
+			<enclosure url="https://archive.org/download/DTNS20140219_201402/DTNS20140219.mp4" length="365056880" type="video/mpeg" />
+			<guid>https://archive.org/download/DTNS20140219_201402/DTNS20140219.mp4</guid>
+		</item>
+				<item>
 			<title>DTNS 2171 – Funk Da Crunk in the Elephant’s Trunk</title>
 			<pubDate>Fri, 14 Feb 2014 22:24:14 +0000</pubDate>
 			<itunes:summary>Brian Ibbott is on the show and we’ll talk about the PS4 doubling Xbox One sales, Pandora guessing your political party, and what tech Coverville’s Mayor uses for music. Plus Len Peralta draws the show! MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, […]</itunes:summary>
@@ -168,14 +176,6 @@
 			<description>Veronica Belmont joins to chat about Beats Audio, 3D Printing and the sale of Intel’s OnCue. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy the show, please consider supporting the show here at the low, low […]</description>
 			<enclosure url="https://archive.org/download/DailyTechNewsShowJan.212C2014/Daily%20Tech%20News%20Show%20-%20Jan.%2021%252C%202014.mp4" length="76481813" type="video/mpeg" />
 			<guid>https://archive.org/download/DailyTechNewsShowJan.212C2014/Daily%20Tech%20News%20Show%20-%20Jan.%2021%252C%202014.mp4</guid>
-		</item>
-				<item>
-			<title>DTNS 2149 – Encrypt all the things</title>
-			<pubDate>Wed, 15 Jan 2014 22:27:06 +0000</pubDate>
-			<itunes:summary>Scott Johnson and Darren Kitchen join me to chat about the latest NSA revelations, the ultra-secure new Blackphone, and whether encryption and security have gone mainstream. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks to Mustafa […]</itunes:summary>
-			<description>Scott Johnson and Darren Kitchen join me to chat about the latest NSA revelations, the ultra-secure new Blackphone, and whether encryption and security have gone mainstream. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. Big thanks to Dan Lueders for the music and Martin Bell for the opening theme! Big thanks to Mustafa […]</description>
-			<enclosure url="https://archive.org/download/DailyTechNewsShowJan.152C2014/Daily%20Tech%20news%20Show%20-%20Jan.%2015%252C%202014.mp4" length="96618958" type="video/mpeg" />
-			<guid>https://archive.org/download/DailyTechNewsShowJan.152C2014/Daily%20Tech%20news%20Show%20-%20Jan.%2015%252C%202014.mp4</guid>
 		</item>
 		</channel>
 </rss>

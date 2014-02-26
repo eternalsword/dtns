@@ -18,6 +18,22 @@
 <itunes:category text="Technology"><itunes:category text="Tech News" /></itunes:category>
 <itunes:explicit>no</itunes:explicit>
 		<item>
+			<title>DTNS 2178 – Descending Mt. Gox</title>
+			<pubDate>Tue, 25 Feb 2014 22:21:05 +0000</pubDate>
+			<itunes:summary>Roger Chang joins me to dig into the Mt. Gox Bitcoin mess, have some further thoughts on Comcast-Netflix and look at a new language! Also, do selfies cause lice? MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. […]</itunes:summary>
+			<description>Roger Chang joins me to dig into the Mt. Gox Bitcoin mess, have some further thoughts on Comcast-Netflix and look at a new language! Also, do selfies cause lice? MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. […]</description>
+			<enclosure url="https://archive.org/download/DTNS20140225_201402/DTNS20140225.mp4" length="339904661" type="video/mpeg" />
+			<guid>https://archive.org/download/DTNS20140225_201402/DTNS20140225.mp4</guid>
+		</item>
+				<item>
+			<title>DTNS 2177 – Samsung has a Fit</title>
+			<pubDate>Mon, 24 Feb 2014 22:19:35 +0000</pubDate>
+			<itunes:summary>We have Iyaz Akhtar and Nate Lanxon joining us to chat about the Samsung Galaxy S5. We also clear up *some* of the confusion around the Netflix Comcast agreement. The bad things about it are likely not the bad things you think they are. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. […]</itunes:summary>
+			<description>We have Iyaz Akhtar and Nate Lanxon joining us to chat about the Samsung Galaxy S5. We also clear up *some* of the confusion around the Netflix Comcast agreement. The bad things about it are likely not the bad things you think they are. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. […]</description>
+			<enclosure url="https://archive.org/download/DTNS20140224_201402/DTNS20140224.mp4" length="310450637" type="video/mpeg" />
+			<guid>https://archive.org/download/DTNS20140224_201402/DTNS20140224.mp4</guid>
+		</item>
+				<item>
 			<title>DTNS 2176 – Peering into the Rift</title>
 			<pubDate>Fri, 21 Feb 2014 22:21:45 +0000</pubDate>
 			<itunes:summary>Ashley Esqueda and Darren Kitchen join to get pumped for the Samsung Galaxy S V, buyout a Chevy’s, and divine the release date of the Oculus Rift by reading the entrails of an Oculus Rift. Also Len Peralta will illustrate the show. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special […]</itunes:summary>
@@ -184,14 +200,6 @@
 			<description>Molly Wood and Peter Wells join to talk abotut he great Chinese website blackout, T-Mobile USA becoming a bank, and more. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy the show, please consider supporting the […]</description>
 			<enclosure url="https://archive.org/download/DailyTechNewsShowJan.222C2014/Daily%20Tech%20news%20Show%20-%20Jan.%2022%252C%202014.mp4" length="349060896" type="video/mpeg" />
 			<guid>https://archive.org/download/DailyTechNewsShowJan.222C2014/Daily%20Tech%20news%20Show%20-%20Jan.%2022%252C%202014.mp4</guid>
-		</item>
-				<item>
-			<title>DTNS 2153 – The Beats goes On</title>
-			<pubDate>Tue, 21 Jan 2014 22:15:43 +0000</pubDate>
-			<itunes:summary>Veronica Belmont joins to chat about Beats Audio, 3D Printing and the sale of Intel’s OnCue. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy the show, please consider supporting the show here at the low, low […]</itunes:summary>
-			<description>Veronica Belmont joins to chat about Beats Audio, 3D Printing and the sale of Intel’s OnCue. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy the show, please consider supporting the show here at the low, low […]</description>
-			<enclosure url="https://archive.org/download/DailyTechNewsShowJan.212C2014/Daily%20Tech%20News%20Show%20-%20Jan.%2021%252C%202014.mp4" length="76481813" type="video/mpeg" />
-			<guid>https://archive.org/download/DailyTechNewsShowJan.212C2014/Daily%20Tech%20News%20Show%20-%20Jan.%2021%252C%202014.mp4</guid>
 		</item>
 		</channel>
 </rss>

@@ -18,6 +18,22 @@
 <itunes:category text="Technology"><itunes:category text="Tech News" /></itunes:category>
 <itunes:explicit>no</itunes:explicit>
 		<item>
+			<title>DTNS 2183 – BitCoin Joke Here</title>
+			<pubDate>Tue, 04 Mar 2014 22:17:16 +0000</pubDate>
+			<itunes:summary>Eric Olander joins us to discuss whether Facebook drones can help Africa, Japan’s regulation approach to BitCoin and the real story behind the Flappy Bird flap. It’s 4 AM in Vietnam where he is, so be kind. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon […]</itunes:summary>
+			<description>Eric Olander joins us to discuss whether Facebook drones can help Africa, Japan’s regulation approach to BitCoin and the real story behind the Flappy Bird flap. It’s 4 AM in Vietnam where he is, so be kind. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon […]</description>
+			<enclosure url="https://archive.org/download/DTNS20140304_201403/DTNS20140304.mp4" length="89549651" type="video/mpeg" />
+			<guid>https://archive.org/download/DTNS20140304_201403/DTNS20140304.mp4</guid>
+		</item>
+				<item>
+			<title>DTNS 2182 – The Microsoft Shuffle</title>
+			<pubDate>Mon, 03 Mar 2014 22:16:05 +0000</pubDate>
+			<itunes:summary>David Spark brings us tales from RSA. We also chat about Apple’s CarPlay, Microsoft’s Cortana, and other less prosaically named devices and services in the news. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy […]</itunes:summary>
+			<description>David Spark brings us tales from RSA. We also chat about Apple’s CarPlay, Microsoft’s Cortana, and other less prosaically named devices and services in the news. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy […]</description>
+			<enclosure url="https://archive.org/download/DTNS20140303_201403/DTNS20140303.mp4" length="316516686" type="video/mpeg" />
+			<guid>https://archive.org/download/DTNS20140303_201403/DTNS20140303.mp4</guid>
+		</item>
+				<item>
 			<title>DTNS 2181 – Trust the Con</title>
 			<pubDate>Fri, 28 Feb 2014 22:20:13 +0000</pubDate>
 			<itunes:summary>Darren Kitchen shares some thoughts on TrustyCon, we discuss some new reasons why Comast-Netflix doesn’t impact net neutrality directly, and Len Peralta illustrates the show live! MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy […]</itunes:summary>
@@ -184,22 +200,6 @@
 			<description>Jonathan Strickland pops by to talk about Lenovo buying Motorola from Google, the man who lost his $50,000 Twitter account, and how the Air Force’s secret weather controlling array might get shut down. Or maybe it’s an ionosphere observation platform. SURE it is, secret government. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE […]</description>
 			<enclosure url="https://archive.org/download/DTNS20140129/DTNS20140129.mp4" length="100108115" type="video/mpeg" />
 			<guid>https://archive.org/download/DTNS20140129/DTNS20140129.mp4</guid>
-		</item>
-				<item>
-			<title>DTNS 2158 – 4K is OK</title>
-			<pubDate>Tue, 28 Jan 2014 22:26:21 +0000</pubDate>
-			<itunes:summary>Nate Lanxon joins us to talk about the Dutch ruling against blocking The Pirate Bay as well as his road test with a 4K monitor and a Mac Pro. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If […]</itunes:summary>
-			<description>Nate Lanxon joins us to talk about the Dutch ruling against blocking The Pirate Bay as well as his road test with a 4K monitor and a Mac Pro. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If […]</description>
-			<enclosure url="https://archive.org/download/DTNS20140128/DTNS20140128.mp4" length="97345935" type="video/mpeg" />
-			<guid>https://archive.org/download/DTNS20140128/DTNS20140128.mp4</guid>
-		</item>
-				<item>
-			<title>DTNS 2157 – What Google’s DeepMind plans</title>
-			<pubDate>Mon, 27 Jan 2014 22:17:32 +0000</pubDate>
-			<itunes:summary>Raj Deut joins us to chat about Google’s AI ambitions, and check in on the PS4 Xbox One console wars a few months later. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy the show, […]</itunes:summary>
-			<description>Raj Deut joins us to chat about Google’s AI ambitions, and check in on the PS4 Xbox One console wars a few months later. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy the show, […]</description>
-			<enclosure url="https://archive.org/download/DTNS20140127/DTNS20140127.mp4" length="85768133" type="video/mpeg" />
-			<guid>https://archive.org/download/DTNS20140127/DTNS20140127.mp4</guid>
 		</item>
 		</channel>
 </rss>

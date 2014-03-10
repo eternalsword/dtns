@@ -18,6 +18,22 @@
 <itunes:category text="Technology"><itunes:category text="Tech News" /></itunes:category>
 <itunes:explicit>no</itunes:explicit>
 		<item>
+			<title>DTNS 2187 – The Encryption Prescription</title>
+			<pubDate>Mon, 10 Mar 2014 21:18:18 +0000</pubDate>
+			<itunes:summary>Molly Wood joins to talk Edward Snowden’s SXSW prescription for solving the world’s surveillance issues. It’s pretty much encrypt all the things. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy the show, please consider […]</itunes:summary>
+			<description>Molly Wood joins to talk Edward Snowden’s SXSW prescription for solving the world’s surveillance issues. It’s pretty much encrypt all the things. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy the show, please consider […]</description>
+			<enclosure url="https://archive.org/download/DTNS20140310/DTNS20140310.mp4" length="85025479" type="video/mpeg" />
+			<guid>https://archive.org/download/DTNS20140310/DTNS20140310.mp4</guid>
+		</item>
+				<item>
+			<title>DTNS 2186 – Bridge over Troubled Trolls</title>
+			<pubDate>Fri, 07 Mar 2014 22:19:14 +0000</pubDate>
+			<itunes:summary>Darren Kitchen is here for his Friday gig along with Russ Pitts. We’ll talk with Russ about how he thinks sometimes you SHOULD engage trolls. Also why the Aereo case could kill cloud storage. Plus the two main reasons for SXSWi to exist. Plus Len Peralta illustrates the show! MP3 Multiple versions (ogg, video etc.) […]</itunes:summary>
+			<description>Darren Kitchen is here for his Friday gig along with Russ Pitts. We’ll talk with Russ about how he thinks sometimes you SHOULD engage trolls. Also why the Aereo case could kill cloud storage. Plus the two main reasons for SXSWi to exist. Plus Len Peralta illustrates the show! MP3 Multiple versions (ogg, video etc.) […]</description>
+			<enclosure url="https://archive.org/download/DTNS20140308/DTNS20140308.mp4" length="371577515" type="video/mpeg" />
+			<guid>https://archive.org/download/DTNS20140308/DTNS20140308.mp4</guid>
+		</item>
+				<item>
 			<title>DTNS 2185 – What’s up with the Doxxing?</title>
 			<pubDate>Thu, 06 Mar 2014 23:23:40 +0000</pubDate>
 			<itunes:summary>Paul Spain joins from New Zealand and we’ll discuss the topic of Newsweek doxxing Satoshi Nakamoto. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy the show, please consider supporting the show here at the […]</itunes:summary>
@@ -184,14 +200,6 @@
 			<description>Justin Young and Paul Thurrott join us to chat about a new camera pill you can swallow and a new Microsoft CEO that investors seem willing to– Microsoft has a new CEO Satya Nadella, and we’ll talk about it. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all […]</description>
 			<enclosure url="https://archive.org/download/DTNS20140204/DTNS20140204.mp4" length="307147623" type="video/mpeg" />
 			<guid>https://archive.org/download/DTNS20140204/DTNS20140204.mp4</guid>
-		</item>
-				<item>
-			<title>DTNS 2162 – PaperBowl</title>
-			<pubDate>Mon, 03 Feb 2014 22:34:20 +0000</pubDate>
-			<itunes:summary>+Patrick Beja joins to talk about the dispute over Facebook’s Paper app, who won the Super Bowl on the Internet and Flappy Bird. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy the show, please […]</itunes:summary>
-			<description>+Patrick Beja joins to talk about the dispute over Facebook’s Paper app, who won the Super Bowl on the Internet and Flappy Bird. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy the show, please […]</description>
-			<enclosure url="https://archive.org/download/DTNS20140203/DTNS20140203.mp4" length="114239196" type="video/mpeg" />
-			<guid>https://archive.org/download/DTNS20140203/DTNS20140203.mp4</guid>
 		</item>
 		</channel>
 </rss>

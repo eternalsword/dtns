@@ -18,6 +18,30 @@
 <itunes:category text="Technology"><itunes:category text="Tech News" /></itunes:category>
 <itunes:explicit>no</itunes:explicit>
 		<item>
+			<title>DTNS 2202 – Mo Money Mo-torola</title>
+			<pubDate>Mon, 31 Mar 2014 21:28:12 +0000</pubDate>
+			<itunes:summary>Wil Harris joins us to chat about the patent wars heating up, CBS’s Les Moonves threatening to take his channel and go off air, and more! MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy […]</itunes:summary>
+			<description>Wil Harris joins us to chat about the patent wars heating up, CBS’s Les Moonves threatening to take his channel and go off air, and more! MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy […]</description>
+			<enclosure url="https://archive.org/download/DTNS20140331/DTNS20140331.mp4" length="368873701" type="video/mpeg" />
+			<guid>https://archive.org/download/DTNS20140331/DTNS20140331.mp4</guid>
+		</item>
+				<item>
+			<title>DTNS 2201 – Dr. Zuckhattan</title>
+			<pubDate>Fri, 28 Mar 2014 21:18:29 +0000</pubDate>
+			<itunes:summary>Andrew Mayne joins the show and we discuss Facebook’s plan to cover the world with Internet-bearing solar-powered drones and lasers. What could go wrong? Also, Len Peralta will attempt to illustrate this mess. You will not want to miss this. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to […]</itunes:summary>
+			<description>Andrew Mayne joins the show and we discuss Facebook’s plan to cover the world with Internet-bearing solar-powered drones and lasers. What could go wrong? Also, Len Peralta will attempt to illustrate this mess. You will not want to miss this. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to […]</description>
+			<enclosure url="https://archive.org/download/DTNS20140328_201403/DTNS20140328.mp4" length="108118498" type="video/mpeg" />
+			<guid>https://archive.org/download/DTNS20140328_201403/DTNS20140328.mp4</guid>
+		</item>
+				<item>
+			<title>DTNS 2199 – Ready Facebook One</title>
+			<pubDate>Wed, 26 Mar 2014 21:16:47 +0000</pubDate>
+			<itunes:summary>Andy Ihnatko joins to settle once and for all whether we will someday live in Facebook’s evil Ready Player One-like universe or Facebook’s evil Snow Crash-like universe. Because they bought Oculus. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would […]</itunes:summary>
+			<description>Andy Ihnatko joins to settle once and for all whether we will someday live in Facebook’s evil Ready Player One-like universe or Facebook’s evil Snow Crash-like universe. Because they bought Oculus. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would […]</description>
+			<enclosure url="https://archive.org/download/DTNS20140326_201403/DTNS20140326.mp4" length="387429689" type="video/mpeg" />
+			<guid>https://archive.org/download/DTNS20140326_201403/DTNS20140326.mp4</guid>
+		</item>
+				<item>
 			<title>DTNS 2198 – Nice to M8 you</title>
 			<pubDate>Tue, 25 Mar 2014 21:21:55 +0000</pubDate>
 			<itunes:summary>Stephen Shankland joins the show to talk about the HTC One M8 and the new CEO of Mozilla. Can Firefox rule mobile? MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy the show, please consider […]</itunes:summary>
@@ -176,30 +200,6 @@
 			<description>Roger Chang joins me to dig into the Mt. Gox Bitcoin mess, have some further thoughts on Comcast-Netflix and look at a new language! Also, do selfies cause lice? MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. […]</description>
 			<enclosure url="https://archive.org/download/DTNS20140225_201402/DTNS20140225.mp4" length="339904661" type="video/mpeg" />
 			<guid>https://archive.org/download/DTNS20140225_201402/DTNS20140225.mp4</guid>
-		</item>
-				<item>
-			<title>DTNS 2177 – Samsung has a Fit</title>
-			<pubDate>Mon, 24 Feb 2014 22:19:35 +0000</pubDate>
-			<itunes:summary>We have Iyaz Akhtar and Nate Lanxon joining us to chat about the Samsung Galaxy S5. We also clear up *some* of the confusion around the Netflix Comcast agreement. The bad things about it are likely not the bad things you think they are. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. […]</itunes:summary>
-			<description>We have Iyaz Akhtar and Nate Lanxon joining us to chat about the Samsung Galaxy S5. We also clear up *some* of the confusion around the Netflix Comcast agreement. The bad things about it are likely not the bad things you think they are. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. […]</description>
-			<enclosure url="https://archive.org/download/DTNS20140224_201402/DTNS20140224.mp4" length="310450637" type="video/mpeg" />
-			<guid>https://archive.org/download/DTNS20140224_201402/DTNS20140224.mp4</guid>
-		</item>
-				<item>
-			<title>DTNS 2176 – Peering into the Rift</title>
-			<pubDate>Fri, 21 Feb 2014 22:21:45 +0000</pubDate>
-			<itunes:summary>Ashley Esqueda and Darren Kitchen join to get pumped for the Samsung Galaxy S V, buyout a Chevy’s, and divine the release date of the Oculus Rift by reading the entrails of an Oculus Rift. Also Len Peralta will illustrate the show. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special […]</itunes:summary>
-			<description>Ashley Esqueda and Darren Kitchen join to get pumped for the Samsung Galaxy S V, buyout a Chevy’s, and divine the release date of the Oculus Rift by reading the entrails of an Oculus Rift. Also Len Peralta will illustrate the show. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special […]</description>
-			<enclosure url="https://archive.org/download/DTNS20140221_201402/DTNS20140221.mp4" length="396837088" type="video/mpeg" />
-			<guid>https://archive.org/download/DTNS20140221_201402/DTNS20140221.mp4</guid>
-		</item>
-				<item>
-			<title>DTNS 2175 – What’s Appening?</title>
-			<pubDate>Thu, 20 Feb 2014 22:15:22 +0000</pubDate>
-			<itunes:summary>Veronica Belmont and Nate Lanxon join us to explain why Facebook REALLY bought WhatsApp. Also why Twitch Plays Pokemon is probably more important. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy the show, please […]</itunes:summary>
-			<description>Veronica Belmont and Nate Lanxon join us to explain why Facebook REALLY bought WhatsApp. Also why Twitch Plays Pokemon is probably more important. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy the show, please […]</description>
-			<enclosure url="https://archive.org/download/DTNS20140220_201402/DTNS20140220.mp4" length="92782254" type="video/mpeg" />
-			<guid>https://archive.org/download/DTNS20140220_201402/DTNS20140220.mp4</guid>
 		</item>
 		</channel>
 </rss>

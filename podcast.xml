@@ -18,6 +18,14 @@
 <itunes:category text="Technology"><itunes:category text="Tech News" /></itunes:category>
 <itunes:explicit>no</itunes:explicit>
 		<item>
+			<title>DTNS 2208 – The Bleedin’ Internet’s Broken</title>
+			<pubDate>Tue, 08 Apr 2014 21:33:00 +0000</pubDate>
+			<itunes:summary>Michael Wolf is on the show helping me deal with the post Heartbleed vulnerability trauma we all are feeling today. Plus he’s got some good news for folks in the wearables industry. As a bonus Steve Gibson helps us understand what we should do about Heartbleed. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please […]</itunes:summary>
+			<description>Michael Wolf is on the show helping me deal with the post Heartbleed vulnerability trauma we all are feeling today. Plus he’s got some good news for folks in the wearables industry. As a bonus Steve Gibson helps us understand what we should do about Heartbleed. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please […]</description>
+			<enclosure url="https://archive.org/download/DTNS20140408_20140409/DTNS20140408.mp4" length="657135032" type="video/mpeg" />
+			<guid>https://archive.org/download/DTNS20140408_20140409/DTNS20140408.mp4</guid>
+		</item>
+				<item>
 			<title>DTNS 2207 – Flexible future</title>
 			<pubDate>Mon, 07 Apr 2014 21:15:29 +0000</pubDate>
 			<itunes:summary>Iyaz Akhtar is on the show today. We’ll discuss some pretty cool flexible tech that could let you scan things by laying it on your screen. Also, we get the scoop on Android TV from The Verge’s Sean Hollister. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all […]</itunes:summary>
@@ -184,14 +192,6 @@
 			<description>Iyaz Akhtar joins us as we get the lowdown on Roku’s updated streaming stick, Logitech’s new remote, and some thoughts on Facebook, Yahoo, Guns and the Winklevoss Twins in space. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be […]</description>
 			<enclosure url="https://archive.org/download/DTNS20140305/DTNS20140305.mp4" length="98858178" type="video/mpeg" />
 			<guid>https://archive.org/download/DTNS20140305/DTNS20140305.mp4</guid>
-		</item>
-				<item>
-			<title>DTNS 2183 – BitCoin Joke Here</title>
-			<pubDate>Tue, 04 Mar 2014 22:17:16 +0000</pubDate>
-			<itunes:summary>Eric Olander joins us to discuss whether Facebook drones can help Africa, Japan’s regulation approach to BitCoin and the real story behind the Flappy Bird flap. It’s 4 AM in Vietnam where he is, so be kind. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon […]</itunes:summary>
-			<description>Eric Olander joins us to discuss whether Facebook drones can help Africa, Japan’s regulation approach to BitCoin and the real story behind the Flappy Bird flap. It’s 4 AM in Vietnam where he is, so be kind. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon […]</description>
-			<enclosure url="https://archive.org/download/DTNS20140304_201403/DTNS20140304.mp4" length="89549651" type="video/mpeg" />
-			<guid>https://archive.org/download/DTNS20140304_201403/DTNS20140304.mp4</guid>
 		</item>
 		</channel>
 </rss>

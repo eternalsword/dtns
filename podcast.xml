@@ -18,6 +18,14 @@
 <itunes:category text="Technology"><itunes:category text="Tech News" /></itunes:category>
 <itunes:explicit>no</itunes:explicit>
 		<item>
+			<title>DTNS 2210 – News From You The Third</title>
+			<pubDate>Thu, 10 Apr 2014 20:31:42 +0000</pubDate>
+			<itunes:summary>Tom’s on assignment today, so he called his most trusted fill-in host – YOU!  We’ve got listener thoughts on the Amazon Fire, Facebook and Oculus, the Adobe Creative Cloud, and a genuine Molly Wood Heartbleed rant. Plus Jon Strickland has some thoughts about the (much) bigger picture. News From You The Third MP3 Video version […]</itunes:summary>
+			<description>Tom’s on assignment today, so he called his most trusted fill-in host – YOU!  We’ve got listener thoughts on the Amazon Fire, Facebook and Oculus, the Adobe Creative Cloud, and a genuine Molly Wood Heartbleed rant. Plus Jon Strickland has some thoughts about the (much) bigger picture. News From You The Third MP3 Video version […]</description>
+			<enclosure url="https://archive.org/download/DTNS20140410_201404/DTNS20140410.mp4" length="65198391" type="video/mpeg" />
+			<guid>https://archive.org/download/DTNS20140410_201404/DTNS20140410.mp4</guid>
+		</item>
+				<item>
 			<title>DTNS 2209 – Free to be 3D</title>
 			<pubDate>Wed, 09 Apr 2014 16:45:52 +0000</pubDate>
 			<itunes:summary>Jason Hiner is on the show today, we’ll chat a bit about Heartbleed, Windows XP and dig into whether 3D printing belongs in the home or the factory. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If […]</itunes:summary>
@@ -176,22 +184,6 @@
 			<description>Molly Wood joins to talk Edward Snowden’s SXSW prescription for solving the world’s surveillance issues. It’s pretty much encrypt all the things. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy the show, please consider […]</description>
 			<enclosure url="https://archive.org/download/DTNS20140310/DTNS20140310.mp4" length="85025479" type="video/mpeg" />
 			<guid>https://archive.org/download/DTNS20140310/DTNS20140310.mp4</guid>
-		</item>
-				<item>
-			<title>DTNS 2186 – Bridge over Troubled Trolls</title>
-			<pubDate>Fri, 07 Mar 2014 22:19:14 +0000</pubDate>
-			<itunes:summary>Darren Kitchen is here for his Friday gig along with Russ Pitts. We’ll talk with Russ about how he thinks sometimes you SHOULD engage trolls. Also why the Aereo case could kill cloud storage. Plus the two main reasons for SXSWi to exist. Plus Len Peralta illustrates the show! MP3 Multiple versions (ogg, video etc.) […]</itunes:summary>
-			<description>Darren Kitchen is here for his Friday gig along with Russ Pitts. We’ll talk with Russ about how he thinks sometimes you SHOULD engage trolls. Also why the Aereo case could kill cloud storage. Plus the two main reasons for SXSWi to exist. Plus Len Peralta illustrates the show! MP3 Multiple versions (ogg, video etc.) […]</description>
-			<enclosure url="https://archive.org/download/DTNS20140308/DTNS20140308.mp4" length="371577515" type="video/mpeg" />
-			<guid>https://archive.org/download/DTNS20140308/DTNS20140308.mp4</guid>
-		</item>
-				<item>
-			<title>DTNS 2185 – What’s up with the Doxxing?</title>
-			<pubDate>Thu, 06 Mar 2014 23:23:40 +0000</pubDate>
-			<itunes:summary>Paul Spain joins from New Zealand and we’ll discuss the topic of Newsweek doxxing Satoshi Nakamoto. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy the show, please consider supporting the show here at the […]</itunes:summary>
-			<description>Paul Spain joins from New Zealand and we’ll discuss the topic of Newsweek doxxing Satoshi Nakamoto. MP3 Multiple versions (ogg, video etc.) from Archive.org. Please SUBSCRIBE HERE. A special thanks to all our Patreon supporters–without you, none of this would be possible. If you enjoy the show, please consider supporting the show here at the […]</description>
-			<enclosure url="https://archive.org/download/DTNS20140306_201403/DTNS20140306.mp4" length="87064869" type="video/mpeg" />
-			<guid>https://archive.org/download/DTNS20140306_201403/DTNS20140306.mp4</guid>
 		</item>
 		</channel>
 </rss>
